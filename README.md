@@ -33,7 +33,8 @@ Enlace Github: https://github.com/fervazquezi/fixture
 
 Imagenes del proyecto:
 <img width="1851" height="968" alt="Captura desde 2026-05-12 01-47-00" src="https://github.com/user-attachments/assets/923234df-49d1-4442-a79a-4e2009fa0432" />
-<img width="1851" height="968" alt="Captura desde 2026-05-12 01-51-35" src="https://github.com/user-attachments/assets/2c20a953-3d37-4ad8-bbeb-05a0dfcce75a" />
+<img width="1851" height="968" alt="Captura desde 2026-05-12 01-46-55" src="https://github.com/user-attachments/assets/478a5d3e-40cb-4340-9ea2-a1ebb56c4da0" />
+
 
 
 
