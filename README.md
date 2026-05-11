@@ -21,7 +21,7 @@ Idiomas: Español, Inglés(Lectura, escritura y comunicación fluida)
 Herramientas: Github
 
 # Sobre mí
-Soy un estudiante de ingeniería informática con una gran capacidad de adaptación y mucha disciplina. Además se me da bien trabajar en equipo. Disfruto cosntruyendo apps, participando en proyectos y actividades y aprendiendo nuevas tecnologiás.  
+Soy un estudiante de ingeniería informática con una gran capacidad de adaptación y mucha disciplina. Además se me da bien trabajar en equipo. Disfruto desarrollando apps, participando en proyectos con futuro y aprendiendo nuevas tecnologiás.  
 Cuento con un nivel alto de inglés.
 
 # Proyectos
