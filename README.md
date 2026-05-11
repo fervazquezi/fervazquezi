@@ -21,6 +21,6 @@ Cuento con un nivel alto de inglés.
 # Proyectos
 He participado en el desarollo de la web para la UGR LAN party del curso 2026. 
 Creación propia de una app de quiniela deportiva (Prototipo en desarrollo)  
-# Enlace Github: https://github.com/fervazquezi/fixture
+## Enlace Github: https://github.com/fervazquezi/fixture
 
 
