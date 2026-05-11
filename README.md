@@ -1,7 +1,7 @@
 ## Fernando Vazquez Iborra
 
 Software Developer
-Lenguajes y tecnologias:
+Lenguajes y tecnologias:  
 C/C++
 React Native
 Python
