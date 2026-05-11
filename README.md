@@ -7,6 +7,8 @@ React Native
 Python  
 Java  
 Cisco Packet Tracer  
+Docker  
+Podman  
 Astro
 
 ## Enalces:  
