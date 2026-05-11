@@ -18,8 +18,8 @@ telefono: +34 689932932
 
 # Habilidades Técnicas
 Desarrollo Frontend/Movil: React Native  
-Lógica y Backend: C++, Java, Python
-Idiomas: Español, Inglés(Lectura, escritura y comunicación fluida)
+Lógica y Backend: C++, Java, Python  
+Idiomas: Español, Inglés(Lectura, escritura y comunicación fluida)  
 Herramientas: Github
 
 # Sobre mí
