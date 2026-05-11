@@ -31,5 +31,8 @@ Participación en el desarollo de la web para la UGR LAN Party del curso 2026.
 Creación propia de una app de quiniela deportiva (Prototipo en desarrollo)  
 Enlace Github: https://github.com/fervazquezi/fixture  
 
+Imagenes del proyecto:
+![Uploading Captura desde 2026-05-12 01-46-55.png…]()
+![Uploading Captura desde 2026-05-12 01-47-00.png…]()
 
 
