@@ -11,7 +11,7 @@ Docker
 Podman  
 Astro
 
-## Enlaces:  
+## Enlaces  
 Github: https://github.com/fervazquezi  
 correo: fervazqueziborra@gmail.com  
 teléfono: +34 689932932  
